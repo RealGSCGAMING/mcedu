@@ -18,4 +18,4 @@
 <h1>More Info:</h1>
 <h3>All of my maps are multiplayer, so feel free to invite your friends!</h3>
 <h3>If you have any problems or find any bugs, open an issue and I'll try to fix it.</h3>
-<h1>Thank you for playing my maps and I hipe that you enjoy them!</h1>
+<h1>Thank you for playing my maps and I hope that you enjoy them!</h1>
